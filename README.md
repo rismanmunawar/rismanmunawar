@@ -4,8 +4,8 @@
   <strong>Language:</strong> <a href="#english">EN</a> · <a href="#bahasa-indonesia">ID</a>
 </p> -->
 
-<!-- <details open id="english"> -->
-<details>
+<details open id="english">
+
   <summary><strong>English</strong></summary>
 
   <br/>
