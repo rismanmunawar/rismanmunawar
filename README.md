@@ -5,7 +5,7 @@
 </p>
 
 <details open id="english">
-  <summary><strong>🇬🇧 English</strong> — click to expand/collapse</summary>
+  <summary><strong>English</strong></summary>
 
   <br/>
   <div align="center" style="background:#0a152f; color:#e6edf3; padding:28px; border-radius:18px; line-height:1.6;">
@@ -82,7 +82,7 @@
 </details>
 
 <br/>
-
+<!--
 <details id="bahasa-indonesia">
   <summary><strong>🇮🇩 Bahasa Indonesia</strong></summary>
 
@@ -160,4 +160,4 @@
   <p style="opacity:.7; font-size:12px; margin-top:6px;">Aksen: <code>#0a152f</code> • Teks: <code>#e6edf3</code> • Tautan: <code>#58a6ff</code></p>
 
   </div>
-</details>
+</details> -->
