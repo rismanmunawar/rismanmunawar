@@ -1,10 +1,11 @@
 <!-- BILINGUAL README WITH LANGUAGE SWITCH (GitHub-friendly: uses <details>) -->
 
-<p align="right" style="margin:0; padding:0;">
+<!-- <p align="right" style="margin:0; padding:0;">
   <strong>Language:</strong> <a href="#english">EN</a> · <a href="#bahasa-indonesia">ID</a>
-</p>
+</p> -->
 
-<details open id="english">
+<!-- <details open id="english"> -->
+<details>
   <summary><strong>English</strong></summary>
 
   <br/>
